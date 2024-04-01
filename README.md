@@ -1,4 +1,5 @@
 # LinkedIn Job Analytics 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### Introduction
 
@@ -73,3 +74,24 @@ The project involves scraping data from LinkedIn job collections using Python li
 ## Final Outcome
 
 The final outcome will be an interactive dashboard providing insights and analytics based on scraped LinkedIn data, including job distribution, skill requirements, company classifications, and more.
+
+## Screenshots (Placeholder)
+![Screenshot 2024-04-01 151219](https://github.com/BIB-HACKER/linkedin-Job_Analytics/assets/87580111/c5098f49-663a-491b-a49d-53adf1b05e65)
+
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone this repository.
+2. Install the necessary dependencies (Beautifulsoup, NLTK, etc.).
+3. Run the scraping scripts to gather job data from LinkedIn.
+4. Set up the database and create the necessary tables.
+5. Execute the SQL queries to generate aggregations for the dashboard.
+
+## Contributions
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
