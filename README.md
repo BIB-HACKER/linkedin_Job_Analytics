@@ -1,5 +1,4 @@
 # LinkedIn Job Analytics 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### Introduction
 
@@ -79,8 +78,6 @@ The final outcome will be an interactive dashboard providing insights and analyt
 ![Screenshot 2024-04-01 151219](https://github.com/BIB-HACKER/linkedin-Job_Analytics/assets/87580111/c5098f49-663a-491b-a49d-53adf1b05e65)
 
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## Getting Started
 
