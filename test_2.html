@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skill Search</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 30px;
+            background-color: #87CEFA;
+            border-radius: 10px;
+            box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 50px;
+        }
+        #skillInput {
+            width: calc(100% - 110px);
+            padding: 10px;
+            border: none;
+            border-radius: 25px;
+            margin-bottom: 20px;
+            background: linear-gradient(to right, #ff9999, #66b3ff);
+            color: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+            outline: none;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        #skillInput:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.08);
+        }
+        #skillInput:focus {
+            transform: translateY(-1px);
+            box-shadow: 0 8px 10px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
+        }
+        #searchBtn {
+            width: 100px;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 25px 25px 25px 25px;
+            cursor: pointer;
+        }
+        #searchBtn:hover {
+            background-color: #0056b3;
+        }
+        
+        .results {
+            margin-top: 100px;
+            text-align: left;
+        }
+        .result-item {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+        .result-item:hover {
+            transform: translateY(-10px);
+        }
+        .result-item strong {
+            color: #007bff;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #ff9999, #66b3ff); /* Initial gradient */
+            animation: animateBackground 10s infinite alternate; /* Apply animation */
+        }
+
+        @keyframes animateBackground {
+            from {
+                background: linear-gradient(to right, #ff9999, #66b3ff); /* Start color */
+            }
+            to {
+                background: linear-gradient(to right, #66b3ff, #ff9999); /* End color */
+            }
+        }
+
+        .suggestions {
+            display: none;
+            position: absolute;
+            width: 10%;
+            max-height: 200px;
+            overflow-y: auto;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-top: none;
+            border-radius: 10 10 50px 50px;
+            z-index: 1000;
+        }
+
+        .suggestion {
+            padding: 8px 16px;
+            cursor: pointer;
+        }
+
+        .suggestion:hover {
+            background-color: #f0f0f0;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Explore Jobs by Skills</h1>
+        <form id="searchForm">
+            <div class="search-container">
+                <input type="text" id="skillInput" placeholder="Enter skills (e.g., Python, Java, HTML)">
+                <div id="suggestions" class="suggestions"></div>
+            </div>
+            <button type="submit" id="searchBtn"><i class="fas fa-search"></i> Search</button>
+        </form>
+        <!-- <div id="searchHistoryContainer" class="search-history-container"></div> Search history container -->
+        <div class="results" id="searchResults">
+            <!-- Search results will be displayed here -->
+        </div>
+    </div>
+    
+
+    <script>
+        
+document.getElementById('searchForm').addEventListener('submit', function(event) {
+  event.preventDefault(); // Prevent form submission
+  var skillInput = document.getElementById('skillInput').value.trim();
+  if (skillInput !== '') {
+      fetchResults(skillInput);
+  }
+});
+
+function fetchResults(skillInput) {
+  var resultsContainer = document.getElementById('searchResults');
+  resultsContainer.innerHTML = '<p><i class="fas fa-spinner fa-spin"></i> Loading...</p>';
+
+  // AJAX request to Flask route '/livesearch'
+  fetch('/livesearch', {
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/x-www-form-urlencoded'
+      },
+      body: 'text=' + encodeURIComponent(skillInput)
+  })
+  .then(response => response.json())
+  .then(data => {
+      resultsContainer.innerHTML = ''; // Clear previous results
+      var resultDiv = document.createElement('div');
+      resultDiv.classList.add('result-item');
+      resultDiv.innerHTML = `
+          <strong>Most Common Experience Level:</strong> ${data.most_common_experience_level}<br><br>
+          <strong>Most Common Industry:</strong> ${data.most_common_industry}<br><br>
+          <strong>Most Common Company Class:</strong> ${data.most_common_company_class}<br><br>
+          <strong>Number of Jobs Available:</strong> ${data.number_of_jobs}<br><br>
+      `;
+      resultsContainer.appendChild(resultDiv);
+  })
+  .catch(error => {
+      console.error('Error:', error);
+      resultsContainer.innerHTML = '<p>Error fetching results</p>';
+  });
+}
+
+// List of IT companies programming skills
+const programmingSkills = [
+  "Python",'Computer Science','Oracle SCM','Oracle Inventory','Business Intelligence Tools',
+  'Customer Service','Database Administration','SAP HANA','RTL Design','RTL Coding','PPV','ASP.NET','Quality Assurance',
+  'Open Pages','Communication',"Java",'Large Assembly Management','Ansys Mechanical','Finite Element Analysis (FEA)',
+  'Salesforce.com Administration','Salesforce.com Consulting','Google Sheets','Microsoft Office','Node.js','Fine Tuning',
+  'Total Cost of Ownership','Licensing','Negotiation','Business Ethics','Attention to Detail','Bid Processes','Cisco Meraki',
+  'Network Administration','Content Marketing','Network Security','Data Security','Technical Proficiency','English',
+  "CSS",'SAP APO','Statutory Accounting Principles (SAP)',
+  'Back-End Web Development','Cucumber','Databases','Document Creation','Microsoft Azure',
+  'Architecture','JavaScript','HTML','Storage Architecture','ABAP','SAP S/4HANA','SQL','PostgreSQL',
+  'Hadoop','Apache','Microsoft SQL Server','Data Analysis','System Requirements',
+  'Client Requirements','Critical Thinking','Cascading Style Sheets (CSS)',
+  'Financial Transaction Processing','Goods and Services Tax (GST)','Indirect Taxation',
+  'Programme Governance','Accounting Standards','Internal Audits','Internal Controls',
+  'Trade Compliance','Customs Regulations','Analytics','Data Visualization','Analytical Skills',
+  'Invoice Processing','Data Engineering','Python (Programming Language)',
+  'Vulnerability Assessment and Penetration Testing (VAPT)',
+  'Bank Reconciliation','Invoicing','Office Operations','Multitasking',
+  'DevOps','Microsoft Excel','NoSQL','Full-Stack Development','ArcGIS Server','Digitization',
+  'Software Sales','Deal Closure','Electromechanics','Thermal System Design','Sales Trainings',
+  'Soft Skills','Interpersonal Skills','Leadership','Machine Learning',
+  'Computer-Aided Design (CAD)','Networking','Routing','Microservices','.NET Framework','Security',
+  'Physical Security','Pesticide','Formulation','Business-to-Business (B2B)',
+  'Software as a Service (SaaS)','Power System Studies','Insulation'
+];
+
+const skillInput = document.getElementById('skillInput');
+const suggestionsContainer = document.getElementById('suggestions');
+const searchHistoryContainer = document.getElementById('searchHistoryContainer');
+
+// Array to store search history
+let searchHistory = [];
+
+// Function to update search history
+function updateSearchHistory(skill) {
+  if (!searchHistory.includes(skill)) {
+      searchHistory.unshift(skill);
+      if (searchHistory.length > 5) {
+          searchHistory.pop();
+      }
+  }
+}
+
+// Function to display search history
+function displaySearchHistory() {
+  searchHistoryContainer.innerHTML = searchHistory.map(skill => `<div>${skill}</div>`).join('');
+}
+
+// Function to display suggestions as a dropdown table
+function displaySuggestions(suggestions) {
+  const html = suggestions.map(suggestion => `<div class="suggestion">${suggestion}</div>`).join('');
+  suggestionsContainer.innerHTML = html;
+  suggestionsContainer.style.display = suggestions.length ? 'block' : 'none'; // Show suggestions if there are any
+}
+
+// Event listener for input in the search bar
+skillInput.addEventListener('input', function () {
+  const inputValue = this.value.trim();
+  if (inputValue === '') {
+      suggestionsContainer.innerHTML = ''; // Clear suggestions if input is empty
+      suggestionsContainer.style.display = 'none'; // Hide suggestions container
+  } else {
+      const suggestions = programmingSkills.filter(skill =>
+          skill.toLowerCase().startsWith(inputValue.toLowerCase())
+      );
+      displaySuggestions(suggestions);
+  }
+});
+
+// Event listener to handle clicks on suggestions
+suggestionsContainer.addEventListener('click', function (event) {
+  if (event.target.classList.contains('suggestion')) {
+      skillInput.value = event.target.textContent;
+      suggestionsContainer.innerHTML = ''; // Clear suggestions after selection
+      suggestionsContainer.style.display = 'none'; // Hide suggestions container
+      updateSearchHistory(event.target.textContent); // Update search history
+      displaySearchHistory(); // Display updated search history
+  }
+});
+
+// Prevent form submission on Enter key press (for suggestions)
+document.getElementById('searchForm').addEventListener('submit', function (event) {
+  event.preventDefault(); // Prevent form submission
+  const skillInputValue = skillInput.value.trim();
+  if (skillInputValue !== '') {
+      updateSearchHistory(skillInputValue); // Update search history
+      displaySearchHistory(); // Display updated search history
+      fetchResults(skillInputValue);
+  }
+});
+
+    </script>
+    <!-- <script src="script.js"></script> -->
+</body>
+</html>
