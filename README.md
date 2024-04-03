@@ -1,4 +1,4 @@
-# LinkedIn Job Analytics 
+# LinkedIn Job Analytics - PROJECT
 
 ### Introduction
 
