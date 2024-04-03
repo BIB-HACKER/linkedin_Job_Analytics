@@ -1,0 +1,401 @@
+details_id,Company,Level,Total_Applicants,Industry,Class,Job_skills 
+dt_1,Fifth Column,Mid-Senior level,63,Architecture and Planning ,Class1,Architecture
+dt_2,RADIANT,Mid-Senior level,2,Architecture and Planning ,Class1,Economic Development
+dt_3,Jio,Mid-Senior level,100,Telecommunications ,Class2,Product Management
+dt_4,Hyqoo,Associate,100,IT Services and IT Consulting ,Class1,Data Governance
+dt_5,Dr. Reddy's Laboratories,Mid-Senior level,56,Pharmaceutical Manufacturing ,Class2,Business-to-Business (B2B)
+dt_6,DMart - Avenue Supermarts Ltd,Mid-Senior level,100,Retail ,Class5,Land Acquisition
+dt_7,Ipca Laboratories Limited,Mid-Senior level,100,Pharmaceutical Manufacturing ,Class2,Environment
+dt_8,Birlasoft,Associate,100,IT Services and IT Consulting ,Class2,CPI
+dt_9,Nagarro,Mid-Senior level,100,IT Services and IT Consulting ,Class2,JavaScript
+dt_10,FNP,Mid-Senior level,100,Retail ,Class1,Business Development
+dt_11,NationsBenefits India,Mid-Senior level,100,IT Services and IT Consulting ,Class1,Transact-SQL (T-SQL)
+dt_12,Birlasoft,Mid-Senior level,2,IT Services and IT Consulting ,Class2,Oracle Analytics Cloud (OAC)
+dt_13,Birlasoft,Mid-Senior level,43,IT Services and IT Consulting ,Class2,JDE CNC
+dt_14,Jio,Mid-Senior level,100,Telecommunications ,Class2,3 of 4 skills match your profile - you may be a good fit
+dt_15,BlackRock,Mid-Senior level,35,IT Services and IT Consulting ,Class2,Distributed Applications
+dt_16,Delta Air Lines,Mid-Senior level,100,IT Services and IT Consulting ,Class2,2 of 2 skills match your profile - you may be a good fit
+dt_17,Infosys,Entry level,27,Telecommunications ,Class2,Product Demonstration
+dt_18,IndusInd Bank,Associate,37,Financial Services ,Class2,unknown
+dt_19,Bureau Veritas Group,Mid-Senior level,100,Airlines and Aviation ,Class2,Auditing
+dt_20,Qatar Airways,Director,100,IT Services and IT Consulting ,Class3,Commercial
+dt_21,Marsh McLennan,Mid-Senior level,100,Banking ,Class2,Microsoft SQL Server
+dt_22,Infosys BPM,Entry level,100,Environmental Services ,Class2,Data Analysis
+dt_23,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,SQL DBA
+dt_24,Infosys,Mid-Senior level,100,Telecommunications ,Class2,Java
+dt_25,NAB,Mid-Senior level,100,Financial Services ,Class2,SQL
+dt_26,NAB,Mid-Senior level,100,Financial Services ,Class2,SQL
+dt_27,Marsh McLennan,Mid-Senior level,100,Banking ,Class2,Microsoft SQL Server
+dt_28,Infogain,Associate,100,IT Services and IT Consulting ,Class2,SQL
+dt_29,Tata Consultancy Services,Mid-Senior level,96,IT Services and IT Consulting ,Class2,Storage
+dt_30,Asian Paints,Mid-Senior level,100,IT Services and IT Consulting ,Class3,Customer Satisfaction
+dt_31,BlackRock,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Compromise
+dt_32,Birlasoft,Mid-Senior level,20,IT Services and IT Consulting ,Class2,Self-Directed Learning
+dt_33,Sony India Software Centre,Mid-Senior level,40,Banking ,Class2,SAP Products
+dt_34,Rakuten India,Director,100,Banking ,Class2,Public Cloud
+dt_35,EaseMyTrip.com,Mid-Senior level,100,Financial Services ,Class2,SQL
+dt_36,Hitachi Astemo,Entry level,9,IT Services and IT Consulting ,Class5,Process Design
+dt_37,Grant Thornton Bharat LLP,Mid-Senior level,100,IT Services and IT Consulting ,Class3,Business Valuation
+dt_38,CARS24,Mid-Senior level,100,Manufacturing ,Class2,InVision
+dt_39,Gameskraft,Mid-Senior level,100,Financial Services ,Class2,Microsoft Excel
+dt_40,HDFC securities,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Investigation
+dt_41,Pidilite Industries Limited,Associate,100,IT Services and IT Consulting ,Class4,Product Launch
+dt_42,Tata Consultancy Services,Mid-Senior level,34,IT Services and IT Consulting ,Class2,Middleware
+dt_43,PcsInfinity Pvt. Ltd.,Mid-Senior level,20,"Technology, Information and Internet ",Class4,SQL Server Analysis Services (SSAS)
+dt_44,Tata Communications Transformation Services (TCTS),Associate,100,Travel Arrangements ,Class1,Network Operations Center (NOC)
+dt_45,Happiest Minds Technologies,Director,100,Motor Vehicle Manufacturing ,Class2,Revenue Assurance
+dt_46,BT Group,Mid-Senior level,24,Accounting ,Class5,Technical Reviews
+dt_47,HTC Global Services,Associate,100,"Technology, Information and Internet ",Class5,Python (Programming Language)
+dt_48,Marsh McLennan,Mid-Senior level,100,Banking ,Class2,SQL Database Administration
+dt_49,Panamax Infotech,Associate,82,Computer Games ,Class1,SQL
+dt_50,Marsh McLennan,Mid-Senior level,100,Banking ,Class2,Microsoft SQL Server
+dt_51,Datamatics,Director,100,Financial Services ,Class4,Sales
+dt_52,KPIT,Mid-Senior level,100,Manufacturing ,Class4,unknown
+dt_53,Iron Mountain,Entry level,3,IT Services and IT Consulting ,Class3,Database Management System (DBMS)
+dt_54,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,Databases
+dt_55,Insight Global,Mid-Senior level,100,Software Development ,Class1,PL/SQL
+dt_56,WNS,Associate,100,Telecommunications ,Class5,Anti-Money Laundering
+dt_57,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,Core Java
+dt_58,Careernet,Mid-Senior level,5,Information Technology & Services ,Class5,SAP-SD
+dt_59,iLink Digital,Mid-Senior level,100,Telecommunications ,Class2,unknown
+dt_60,Wipro,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Presentations
+dt_61,Morgan Stanley,Mid-Senior level,1 applicant,Financial Services ,Class2,unknown
+dt_62,PUMA Group,Mid-Senior level,100,IT Services and IT Consulting ,Class1,Product Lines
+dt_63,Alp Consulting Ltd.,Mid-Senior level,11,Financial Services ,Class2,Databases
+dt_64,Oracle,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Databases
+dt_65,Truemeds India,Mid-Senior level,100,Software Development ,Class5,Java
+dt_66,Atos,Mid-Senior level,6,IT Services and IT Consulting ,Class2,Oracle Warehouse Builder
+dt_67,Mastek,Mid-Senior level,100,IT Services and IT Consulting ,Class3,Python (Programming Language)
+dt_68,Genpact,Entry level,100,Staffing and Recruiting ,Class4,Accounting
+dt_69,HARMAN International,Mid-Senior level,94,Outsourcing and Offshoring Consulting ,Class2,unknown
+dt_70,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,Office 365
+dt_71,EarnYoung,Associate,59,IT Services and IT Consulting ,Class2,Quality Assurance
+dt_72,Deloitte,Mid-Senior level,100,Staffing and Recruiting ,Class4,General Data Protection Regulation (GDPR)
+dt_73,Policybazaar.com,Mid-Senior level,100,IT Services and IT Consulting ,Class4,Business Development
+dt_74,Tata Consultancy Services,Associate,99,IT Services and IT Consulting ,Class2,Application Packaging
+dt_75,Tata Elxsi,Mid-Senior level,100,IT Services and IT Consulting ,Class3,Procedural Programming
+dt_76,IndusInd Bank,Mid-Senior level,34,Financial Services ,Class2,unknown
+dt_77,Tata Consultancy Services,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Python (Programming Language)
+dt_78,Tata Consultancy Services,Mid-Senior level,47,IT Services and IT Consulting ,Class2,ServiceNow
+dt_79,Saint-Gobain Research India,Mid-Senior level,100,Financial Services ,Class2,Material Characterization
+dt_80,Infosys,Entry level,41,Telecommunications ,Class2,Python (Programming Language)
+dt_81,Omnicom Media Group India,Associate,61,Retail ,Class2,Performance Management
+dt_82,"Georgia IT, Inc.",Entry level,85,Staffing and Recruiting ,Class4,Java
+dt_83,Hexaware Technologies,Mid-Senior level,2,IT Services and IT Consulting ,Class3,Backbase
+dt_84,Tata Consultancy Services,Associate,74,IT Services and IT Consulting ,Class2,unknown
+dt_85,Infosys BPM,Entry level,100,Environmental Services ,Class2,Insurance
+dt_86,Allianz Partners,Entry level,52,Pharmaceutical Manufacturing ,Class1,Attention to Detail
+dt_87,BlackRock,Mid-Senior level,98,IT Services and IT Consulting ,Class2,Project Communications
+dt_88,NTT Ltd.,Entry level,100,IT Services and IT Consulting ,Class2,ITIL
+dt_89,Birlasoft,Mid-Senior level,6,IT Services and IT Consulting ,Class2,Database Management System (DBMS)
+dt_90,Redrob by McKinley Rice,Associate,80,IT Services and IT Consulting ,Class5,unknown
+dt_91,LTIMindtree,Associate,100,Airlines and Aviation ,Class2,Local Area Network (LAN)
+dt_92,Hitachi Energy,Entry level,100,Business Consulting and Services ,Class2,Communication
+dt_93,Birlasoft,Mid-Senior level,88,IT Services and IT Consulting ,Class2,Project Management
+dt_94,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,unknown
+dt_95,Reliance Industries Limited,Entry level,77,Computers and Electronics Manufacturing ,Class2,Statutory
+dt_96,Roku,Mid-Senior level,99,IT Services and IT Consulting ,Class2,Python (Programming Language)
+dt_97,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,Java
+dt_98,Kotak Mutual Fund,Associate,100,Staffing and Recruiting ,Class1,Contact Centers
+dt_99,BluSmart,Mid-Senior level,100,Business Consulting and Services ,Class3,English
+dt_100,Tata Consultancy Services,Mid-Senior level,100,IT Services and IT Consulting ,Class2,SQL
+dt_101,Quess IT Staffing,Associate,100,Insurance ,Class4,ServiceNow
+dt_102,Genpact,Mid-Senior level,100,Staffing and Recruiting ,Class4,US Payroll
+dt_103,Marsh McLennan,Mid-Senior level,100,Banking ,Class2,Oracle Database Administration
+dt_104,CARS24,Mid-Senior level,89,Manufacturing ,Class2,Sketch App
+dt_105,S&P Global,Mid-Senior level,83,IT Services and IT Consulting ,Class3,Quality Assurance
+dt_106,Epsilon India,Associate,100,IT Services and IT Consulting ,Class2,Request Tracker
+dt_107,HARMAN India,Mid-Senior level,94,Banking ,Class2,Spyglass
+dt_108,Aspire Higher HR Solutions,Mid-Senior level,94,IT Services and IT Consulting ,Class3,MySQL
+dt_109,Invest India,Associate,66,IT Services and IT Consulting ,Class3,Microsoft PowerPoint
+dt_110,dentsu,Mid-Senior level,37,Research Services ,Class1,Databases
+dt_111,Google,Mid-Senior level,40,IT Services and IT Consulting ,Class3,Relational Databases
+dt_112,Cognizant,Entry level,17,Advertising Services ,Class1,Process Auditing
+dt_113,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,Salesforce.com
+dt_114,iEnergizer,Entry level,100,IT Services and IT Consulting ,Class1,Customer Service
+dt_115,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,Microsoft Exchange
+dt_116,Inteliwaves,Executive,94,IT Services and IT Consulting ,Class2,unknown
+dt_117,Hexaware Technologies,Mid-Senior level,100,IT Services and IT Consulting ,Class3,Test Engineering
+dt_118,Virtusa,Associate,100,IT Services and IT Consulting ,Class3,1 of 1 skill matches your profile - you may be a good fit
+dt_119,TÜV SÜD,Mid-Senior level,36,IT Services and IT Consulting ,Class2,Business Development
+dt_120,Marsh McLennan,Mid-Senior level,100,Banking ,Class2,3 of 5 skills match your profile - you may be a good fit
+dt_121,Arm,Associate,100,Insurance ,Class2,Demand Management
+dt_122,PW (PhysicsWallah),Associate,100,Financial Services ,Class2,Operations Management
+dt_123,Citi,Mid-Senior level,54,IT Services and IT Consulting ,Class2,Fund Administration
+dt_124,Technip Energies,Associate,100,IT Services and IT Consulting ,Class2,Engineering
+dt_125,Orange Business,Mid-Senior level,71,Software Development ,Class1,Data Analysis
+dt_126,Capgemini Engineering,Associate,100,IT Services and IT Consulting ,Class2,Asset Management
+dt_127,UNIVO Education,Mid-Senior level,93,"Electric Power Transmission, Control, and Distribution ",Class2,Full-Stack Development
+dt_128,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,JD Edwards
+dt_129,Tata Consultancy Services,Associate,79,IT Services and IT Consulting ,Class2,Oracle Database Administration
+dt_130,Infosys,Entry level,35,Telecommunications ,Class2,Database Management System (DBMS)
+dt_131,Careernet,Executive,30,Information Technology & Services ,Class5,4 of 6 skills match your profile - you may be a good fit
+dt_132,ANZ,Mid-Senior level,22,IT Services and IT Consulting ,Class2,Falcon
+dt_133,Regalix,Associate,100,IT Services and IT Consulting ,Class2,unknown
+dt_134,Navis,Entry level,81,Oil and Gas ,Class2,Back-End Web Development
+dt_135,Lowe's India,Mid-Senior level,71,Software Development ,Class4,REST APIs
+dt_136,HT Digital Streams,Associate,100,IT Services and IT Consulting ,Class2,1 of 1 skill matches your profile - you may be a good fit
+dt_137,HTC Global Services,Associate,100,"Technology, Information and Internet ",Class5,Loan Syndications
+dt_138,Hexaware Technologies,Associate,100,IT Services and IT Consulting ,Class3,SQL
+dt_139,Cognizant,Entry level,21,Advertising Services ,Class1,Process Auditing
+dt_140,airtel,Mid-Senior level,100,Financial Services ,Class1,Capital Expenditures
+dt_141,Saint-Gobain Technical Insulation,Mid-Senior level,100,"Technology, Information and Media ",Class1,Maintenance Planning
+dt_142,LTIMindtree,Associate,96,Airlines and Aviation ,Class2,unknown
+dt_143,Purplle.com,Associate,100,IT Services and IT Consulting ,Class3,App Marketing
+dt_144,H&M,Mid-Senior level,100,Staffing and Recruiting ,Class2,Business Case Preparation
+dt_145,Recmatrix Consulting,Entry level,100,Business Consulting and Services ,Class2,360 Recruitment
+dt_146,BlackRock,Mid-Senior level,41,IT Services and IT Consulting ,Class2,Object-Oriented Programming (OOP)
+dt_147,KPMG India,Mid-Senior level,100,Financial Services ,Class2,Lean Six Sigma
+dt_148,Hexaware Technologies,Mid-Senior level,100,IT Services and IT Consulting ,Class3,SQL
+dt_149,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,SAP Integration
+dt_150,T&N Business Services,Associate,100,"Technology, Information and Internet ",Class5,Customer Service
+dt_151,Gleren Technologies,Mid-Senior level,100,Financial Services ,Class2,Microsoft Azure
+dt_152,Sercomm,Mid-Senior level,100,Advertising Services ,Class4,Supply Chain Management
+dt_153,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,SQL
+dt_154,Marsh McLennan,Associate,100,Banking ,Class2,Oracle Database Administration
+dt_155,Schbang,Mid-Senior level,3,Computers and Electronics Manufacturing ,Class5,Digital Copywriting
+dt_156,Wipro,Mid-Senior level,72,IT Services and IT Consulting ,Class2,Presentations
+dt_157,Capgemini,Mid-Senior level,21,Staffing and Recruiting ,Class1,GE Proficy
+dt_158,DXFactor,Mid-Senior level,100,Government Relations Services ,Class1,Data Analysis
+dt_159,Cummins India,Mid-Senior level,100,Advertising Services ,Class2,Life Cycle Assessment
+dt_160,Infosys,Entry level,25,Telecommunications ,Class2,Requirement Specifications
+dt_161,Synchrony,Mid-Senior level,27,Software Development ,Class6,Business Risk
+dt_162,Delta Air Lines,Mid-Senior level,54,IT Services and IT Consulting ,Class2,Java
+dt_163,Tata Consultancy Services,Mid-Senior level,22,IT Services and IT Consulting ,Class2,Network Security
+dt_164,Microsoft,Mid-Senior level,69,IT Services and IT Consulting ,Class2,Internal Communications
+dt_165,Novo Nordisk,Mid-Senior level,87,IT Services and IT Consulting ,Class3,Business Understanding
+dt_166,Purplle.com,Mid-Senior level,100,IT Services and IT Consulting ,Class3,SAP Products
+dt_167,Tech Mahindra,Director,100,Outsourcing and Offshoring Consulting ,Class2,Analytics
+dt_168,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,CommVault
+dt_169,Godrej & Boyce Mfg. Co. Ltd.,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Power Electronics
+dt_170,LTIMindtree,Associate,100,Airlines and Aviation ,Class2,unknown
+dt_171,Great Learning,Associate,51,IT Services and IT Consulting ,Class1,unknown
+dt_172,Purplle.com,Associate,100,IT Services and IT Consulting ,Class3,Recruiting
+dt_173,Chakr Innovation,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Power Systems
+dt_174,H&M,Mid-Senior level,74,Staffing and Recruiting ,Class2,Merchandising
+dt_175,BluSmart,Mid-Senior level,100,Business Consulting and Services ,Class3,Health and Safety Executive (HSE)
+dt_176,Unicommerce,Mid-Senior level,100,IT Services and IT Consulting ,Class2,NoSQL
+dt_177,Tata Consultancy Services,Mid-Senior level,68,IT Services and IT Consulting ,Class2,SAP Basis
+dt_178,Infosys,Mid-Senior level,100,Telecommunications ,Class2,Contract Management
+dt_179,Lowe's India,Mid-Senior level,2,Software Development ,Class4,User Stories
+dt_180,Meril,Associate,39,Public Safety ,Class2,Computer-Aided Design (CAD)
+dt_181,Havas Media Network,Associate,6,Financial Services ,Class2,Post Campaign Analysis
+dt_182,EXL,Mid-Senior level,100,Semiconductor Manufacturing ,Class5,Analytics
+dt_183,Redrob by McKinley Rice,Mid-Senior level,57,IT Services and IT Consulting ,Class5,unknown
+dt_184,Tata Consultancy Services,Mid-Senior level,18,IT Services and IT Consulting ,Class2,Microsoft Power BI
+dt_185,Milliman,Internship,100,E-Learning Providers ,Class5,Problem Solving
+dt_186,EY,Mid-Senior level,100,Financial Services ,Class2,Resolving Issues
+dt_187,TEKsystems,Mid-Senior level,42,Engineering Services ,Class2,Java
+dt_188,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,SAP Materials Management (SAP MM)
+dt_189,Quick Heal,Mid-Senior level,52,IT Services and IT Consulting ,Class2,C++
+dt_190,Jupiter,Mid-Senior level,100,,Class1,Product Strategy
+dt_191,3M,Mid-Senior level,100,E-Learning Providers ,Class4,DevOps
+dt_192,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,Microsoft Excel
+dt_193,Unacademy,Entry level,100,IT Services and IT Consulting ,Class3,unknown
+dt_194,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,SAP Successfactors
+dt_195,Lockton,Mid-Senior level,100,IT Services and IT Consulting ,Class3,Commerce
+dt_196,Teach For India,Mid-Senior level,100,IT Services and IT Consulting ,Class3,End-to-End Project Management
+dt_197,BlackRock,Mid-Senior level,91,IT Services and IT Consulting ,Class2,Project Communications
+dt_198,Shell,Mid-Senior level,100,Staffing and Recruiting ,Class4,Creative Problem Solving
+dt_199,GE Vernova,Mid-Senior level,2,Banking ,Class2,Relays
+dt_200,Tata Consultancy Services,Mid-Senior level,100,IT Services and IT Consulting ,Class2,VMware
+dt_201,Airtel Digital,Mid-Senior level,29,Business Consulting and Services ,Class4,Unix
+dt_202,Ecolab Digital Center,Mid-Senior level,100,Maritime Transportation ,Class1,SQL
+dt_203,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,Microsoft Power BI
+dt_204,Infor,Associate,32,Retail ,Class4,Sales
+dt_205,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,Microsoft Azure
+dt_206,Applicantz,Mid-Senior level,68,Online Audio and Video Media ,Class1,Python (Programming Language)
+dt_207,S&P Global,Mid-Senior level,49,IT Services and IT Consulting ,Class3,Quality Assurance
+dt_208,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,Linux
+dt_209,Ami Lifesciences Pvt. Ltd.,Mid-Senior level,75,IT Services and IT Consulting ,Class2,Data Analysis
+dt_210,Alp Consulting Ltd.,Mid-Senior level,11,Financial Services ,Class2,Core Java
+dt_211,Wipro,Associate,100,IT Services and IT Consulting ,Class2,Financial Accounting
+dt_212,Urban Company,Mid-Senior level,82,IT Services and IT Consulting ,Class2,Procurement
+dt_213,HTC Global Services,Mid-Senior level,100,"Technology, Information and Internet ",Class5,Python (Programming Language)
+dt_214,Advarra,Entry level,24,IT Services and IT Consulting ,Class2,Cell Biology
+dt_215,Housr,Entry level,100,Telecommunications ,Class2,Writing
+dt_216,Infosys,Entry level,100,Telecommunications ,Class2,Selenium
+dt_217,Novo Nordisk,Mid-Senior level,43,IT Services and IT Consulting ,Class3,Office Administration
+dt_218,Marsh McLennan,Mid-Senior level,100,Banking ,Class2,Java
+dt_219,PTC,Mid-Senior level,57,Wholesale Building Materials ,Class2,Debugging Code
+dt_220,HCLTech,Associate,100,IT Services and IT Consulting ,Class2,Banking
+dt_221,LTIMindtree,Mid-Senior level,80,Airlines and Aviation ,Class2,Software Updates
+dt_222,Happiest Minds Technologies,Director,55,Motor Vehicle Manufacturing ,Class2,Leadership
+dt_223,WNS,Internship,13,Telecommunications ,Class5,Windows Desktop Administration
+dt_224,Goldman Sachs,Mid-Senior level,0,"Technology, Information and Internet ",Class4,Python (Programming Language)
+dt_225,EMotorad,Associate,82,Retail ,Class2,General Administration
+dt_226,RADIANT,Mid-Senior level,1 applicant,Architecture and Planning ,Class1,Infrastructure
+dt_227,Genpact,Mid-Senior level,79,Staffing and Recruiting ,Class4,Oracle SCM
+dt_228,Sony India Software Centre,Mid-Senior level,69,Banking ,Class2,Office 365
+dt_229,MRI Software,Mid-Senior level,100,Staffing and Recruiting ,Class1,Azure Data Factory
+dt_230,Intel Corporation,Internship,100,Financial Services ,Class2,Very-Large-Scale Integration (VLSI)
+dt_231,Truelancer.com,Mid-Senior level,100,Business Consulting and Services ,Class2,unknown
+dt_232,KnowledgeWorks Global Ltd.,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Linux System Administration
+dt_233,WN Infotech,Mid-Senior level,100,IT Services and IT Consulting ,Class3,unknown
+dt_234,DataE2E Technologies,Mid-Senior level,100,IT Services and IT Consulting ,Class4,unknown
+dt_235,Inteliwaves,Mid-Senior level,57,IT Services and IT Consulting ,Class2,unknown
+dt_236,Synchrony,Mid-Senior level,1 applicant,Software Development ,Class6,Source to Pay
+dt_237,Embee Software Pvt. Ltd.,Entry level,100,IT Services and IT Consulting ,Class1,Microsoft Azure
+dt_238,Careernet,Mid-Senior level,8,Information Technology & Services ,Class5,Front-End Development
+dt_239,slice,Mid-Senior level,68,Computer Networking ,Class5,Payment Card Industry Data Security Standard (PCI DSS)
+dt_240,Tata Consultancy Services,Associate,99,IT Services and IT Consulting ,Class2,Windows Administration
+dt_241,H&M,Mid-Senior level,56,Staffing and Recruiting ,Class2,Business Case Preparation
+dt_242,Tata Consultancy Services,Mid-Senior level,100,IT Services and IT Consulting ,Class2,JavaScript
+dt_243,Genpact,Mid-Senior level,100,Staffing and Recruiting ,Class4,Financial Reporting
+dt_244,Tata Consultancy Services,Mid-Senior level,100,IT Services and IT Consulting ,Class2,DevOps
+dt_245,ZARA SA,Mid-Senior level,23,IT Services and IT Consulting ,Class3,unknown
+dt_246,SLB,Associate,96,Financial Services ,Class2,Technical Files
+dt_247,Allianz Partners,Entry level,39,Pharmaceutical Manufacturing ,Class1,Business Ethics
+dt_248,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,Microsoft Azure
+dt_249,IKEA,Mid-Senior level,100,Advertising Services ,Class4,Key Account Management
+dt_250,Gestamp,Mid-Senior level,100,IT Services and IT Consulting ,Class3,Microsoft Office
+dt_251,PeopleLogic,Associate,100,IT Services and IT Consulting ,Class2,Web Application Development
+dt_252,Tata Consultancy Services,Associate,100,IT Services and IT Consulting ,Class2,Python (Programming Language)
+dt_253,Thomson Reuters,Associate,100,IT Services and IT Consulting ,Class1,Microsoft SQL Server
+dt_254,Infosys,Entry level,100,Telecommunications ,Class2,Account Planning
+dt_255,Tata Consultancy Services,Mid-Senior level,63,IT Services and IT Consulting ,Class2,1 of 1 skill matches your profile - you may be a good fit
+dt_256,Ford Motor Solutions,Mid-Senior level,100,Motor Vehicle Manufacturing ,Class2,Airlines
+dt_257,TELUS International AI Data Solutions,Entry level,28,IT Services and IT Consulting ,Class3,English
+dt_258,HP,Mid-Senior level,32,Financial Services ,Class2,SAP APO
+dt_259,Airtel Payments Bank,Mid-Senior level,35,Airlines and Aviation ,Class2,Back-End Web Development
+dt_260,Atos,Mid-Senior level,1 applicant,IT Services and IT Consulting ,Class2,Databases
+dt_261,Tata Consultancy Services,Mid-Senior level,82,IT Services and IT Consulting ,Class2,Microsoft Azure
+dt_262,Infosys Finacle,Mid-Senior level,100,IT Services and IT Consulting ,Class3,JavaScript
+dt_263,Tata Consultancy Services,Mid-Senior level,94,IT Services and IT Consulting ,Class2,Storage Architecture
+dt_264,SMC Squared India,Mid-Senior level,14,Software Development ,Class3,ABAP
+dt_265,ManipalCigna Health Insurance Company Ltd.,Mid-Senior level,84,Pharmaceutical Manufacturing ,Class2,SQL
+dt_266,Tata Consultancy Services,Associate,22,IT Services and IT Consulting ,Class2,Hadoop
+dt_267,Unisys,Associate,26,"Technology, Information and Internet ",Class4,Microsoft SQL Server
+dt_268,Infosys,Entry level,40,Telecommunications ,Class2,System Requirements
+dt_269,Genpact,Associate,100,Staffing and Recruiting ,Class4,English
+dt_270,Hitachi Energy,Entry level,67,Business Consulting and Services ,Class2,Cascading Style Sheets (CSS)
+dt_271,Deloitte,Director,46,Staffing and Recruiting ,Class4,Goods and Services Tax (GST)
+dt_272,Genpact,Mid-Senior level,100,Staffing and Recruiting ,Class4,Programme Governance
+dt_273,Syngene International Limited,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Internal Audits
+dt_274,Volvo Group,Mid-Senior level,96,IT Services and IT Consulting ,Class3,Trade Compliance
+dt_275,GEP Worldwide,Mid-Senior level,100,Manufacturing ,Class2,Analytics
+dt_276,Genpact,Entry level,6,Staffing and Recruiting ,Class4,Analytical Skills
+dt_277,Tech Mahindra,Mid-Senior level,83,Outsourcing and Offshoring Consulting ,Class2,unknown
+dt_278,Premier International,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Data Engineering
+dt_279,SurveySparrow,Entry level,100,E-Learning Providers ,Class4,Vulnerability Assessment and Penetration Testing (VAPT)
+dt_280,Blenheim Chalcot India,Mid-Senior level,19,"Technology, Information and Internet ",Class4,Back-End Web Development
+dt_281,Tata Consultancy Services,Associate,46,IT Services and IT Consulting ,Class2,1 of 1 skill matches your profile - you may be a good fit
+dt_282,OYO,Associate,100,Environmental Services ,Class1,Bank Reconciliation
+dt_283,ROYALCHEMICALS,Mid-Senior level,41,Retail ,Class2,Office Operations
+dt_284,Tata Consultancy Services,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Microsoft Azure
+dt_285,JioSaavn,Associate,100,"Technology, Information and Media ",Class1,Microsoft Excel
+dt_286,Goldman Sachs,Mid-Senior level,4,"Technology, Information and Internet ",Class4,NoSQL
+dt_287,Isha Foundation,Mid-Senior level,100,IT Services and IT Consulting ,Class1,unknown
+dt_288,Lepton Software,Executive,100,IT Services and IT Consulting ,Class3,ArcGIS Server
+dt_289,NICE,Mid-Senior level,15,IT Services and IT Consulting ,Class3,unknown
+dt_290,Hilti India,Mid-Senior level,27,Retail ,Class4,Software Sales
+dt_291,Enphase Energy,Mid-Senior level,16,Medical Device ,Class4,Electromechanics
+dt_292,Curefit - house of cult,Associate,11,Advertising Services ,Class5,Sales Trainings
+dt_293,Applied Materials,Mid-Senior level,8,IT Services and IT Consulting ,Class2,Statutory Accounting Principles (SAP)
+dt_294,Atlas Copco Group,Mid-Senior level,25,Software Development ,Class1,Leadership
+dt_295,LTIMindtree,Mid-Senior level,43,Airlines and Aviation ,Class2,unknown
+dt_296,Tata Consultancy Services,Mid-Senior level,63,IT Services and IT Consulting ,Class2,Networking
+dt_297,Wipro,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Full-Stack Development
+dt_298,LTIMindtree,Mid-Senior level,100,Airlines and Aviation ,Class2,Microservices
+dt_299,Nayara Energy,Entry level,40,IT Services and IT Consulting ,Class3,Security
+dt_300,Syngenta,Mid-Senior level,40,Business Consulting and Services ,Class4,Pesticide
+dt_301,HTC Global Services,Associate,100,"Technology, Information and Internet ",Class5,Business-to-Business (B2B)
+dt_302,STEAG Energy Services (India) Pvt. Ltd,Mid-Senior level,100,Professional Services ,Class3,Power System Studies
+dt_303,Lowe's India,Mid-Senior level,1 applicant,Software Development ,Class4,Databases
+dt_304,Genpact,Director,84,Staffing and Recruiting ,Class4,Oracle SCM
+dt_305,Anblicks,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Python (Programming Language)
+dt_306,HCLTech,Entry level,36,IT Services and IT Consulting ,Class2,Communication
+dt_307,Tata Consultancy Services,Mid-Senior level,41,IT Services and IT Consulting ,Class2,Database Administration
+dt_308,Meine Kuche (I) Pvt. Ltd.,Mid-Senior level,2,IT Services and IT Consulting ,Class3,unknown
+dt_309,HARMAN India,Mid-Senior level,100,Banking ,Class2,RTL Design
+dt_310,Hitachi Energy,Mid-Senior level,66,Business Consulting and Services ,Class2,English
+dt_311,Intozi,Mid-Senior level,100,Software Development ,Class4,6 of 10 skills match your profile - you may be a good fit
+dt_312,InfoVision Inc.,Mid-Senior level,100,,Class1,Databases
+dt_313,Firstsource,Mid-Senior level,100,Industrial Machinery Manufacturing ,Class2,unknown
+dt_314,S&P Global,Mid-Senior level,35,IT Services and IT Consulting ,Class3,Quality Assurance
+dt_315,Dun & Bradstreet Technology and Corporate Services India LLP,Associate,86,IT Services and IT Consulting ,Class2,3 of 3 skills match your profile - you may be a good fit
+dt_316,Mobileum,Mid-Senior level,100,E-Learning Providers ,Class5,Signaling System 7 (SS7)
+dt_317,Dover India,Entry level,100,IT Services and IT Consulting ,Class3,Communication
+dt_318,Expert Global Group,Associate,100,Insurance ,Class2,Ansys Mechanical
+dt_319,Careerfit.ai,Mid-Senior level,100,Non-profit Organizations ,Class1,unknown
+dt_320,Restroworks,Mid-Senior level,100,Financial Services ,Class2,Salesforce.com Administration
+dt_321,PloPdo,Entry level,7,Oil and Gas ,Class2,Google Sheets
+dt_322,Tata Technologies,Entry level,100,Electric Power Generation ,Class2,Node.js
+dt_323,BlackRock,Mid-Senior level,17,IT Services and IT Consulting ,Class2,Fine Tuning
+dt_324,LTIMindtree,Entry level,100,Airlines and Aviation ,Class2,Licensing
+dt_325,Allianz Partners,Entry level,25,Pharmaceutical Manufacturing ,Class1,Business Ethics
+dt_326,Capgemini,Mid-Senior level,82,Staffing and Recruiting ,Class1,English
+dt_327,Tata Consultancy Services,Mid-Senior level,25,IT Services and IT Consulting ,Class2,Cisco Meraki
+dt_328,SurveySparrow,Entry level,100,E-Learning Providers ,Class4,Content Marketing
+dt_329,Advantmed India LLP,Mid-Senior level,100,IT Services and IT Consulting ,Class3,Network Security
+dt_330,Wipro,Mid-Senior level,79,IT Services and IT Consulting ,Class2,English
+dt_331,Kotak Mahindra Bank,Mid-Senior level,100,Internet Publishing ,Class4,Content Management Systems (CMS)
+dt_332,Airtel Business,Mid-Senior level,100,IT Services and IT Consulting ,Class1,Sales
+dt_333,Fint Solutions,Mid-Senior level,100,IT Services and IT Consulting ,Class3,4 of 6 skills match your profile - you may be a good fit
+dt_334,Mirchi,Mid-Senior level,100,Software Development ,Class2,Radio
+dt_335,airtel,Mid-Senior level,57,Financial Services ,Class1,Financial Accounting
+dt_336,Lowe's India,Mid-Senior level,33,Software Development ,Class4,Technical Requirements
+dt_337,Genpact,Mid-Senior level,68,Staffing and Recruiting ,Class4,Supplier Relationship Management
+dt_338,Ankyah Infinity Pvt. Ltd.,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Python (Programming Language)
+dt_339,Tata Elxsi,Mid-Senior level,47,IT Services and IT Consulting ,Class3,Middleware
+dt_340,Boeing,Mid-Senior level,21,"Technology, Information and Internet ",Class1,JavaScript
+dt_341,Thiess,Mid-Senior level,22,Financial Services ,Class2,Mining
+dt_342,Lennox India Technology Centre,Mid-Senior level,17,IT Services and IT Consulting ,Class3,ABAP
+dt_343,WNS,Entry level,30,Telecommunications ,Class5,Internal & External Clients
+dt_344,Wipro,Mid-Senior level,29,IT Services and IT Consulting ,Class2,Wireframing
+dt_345,Tata Consultancy Services,Associate,53,IT Services and IT Consulting ,Class2,Data Engineering
+dt_346,NetApp,Mid-Senior level,61,Pharmaceutical Manufacturing ,Class4,Technical Support
+dt_347,Atlas Copco Group,Mid-Senior level,27,Software Development ,Class1,English
+dt_348,Qrata,Associate,38,Staffing and Recruiting ,Class4,Trade Sales
+dt_349,Fractal,Associate,6,IT Services and IT Consulting ,Class3,Python (Programming Language)
+dt_350,Schbang,Entry level,100,Computers and Electronics Manufacturing ,Class5,Search Engine Optimization (SEO)
+dt_351,SurveySparrow,Entry level,100,E-Learning Providers ,Class4,Business Development
+dt_352,Flowserve Corporation,Entry level,3,"Technology, Information and Internet ",Class4,Statutory Accounting Principles (SAP)
+dt_353,Games24x7,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Digital Marketing Channels
+dt_354,Birlasoft,Mid-Senior level,9,IT Services and IT Consulting ,Class2,Extract
+dt_355,Dover India,Mid-Senior level,78,IT Services and IT Consulting ,Class3,New Product Implementations
+dt_356,Accenture in India,Entry level,1 applicant,Pharmaceutical Manufacturing ,Class1,Communication
+dt_357,Sanofi,Entry level,4,Hospitality ,Class1,Data Governance
+dt_358,Sanofi,Entry level,4,Hospitality ,Class1,Data Governance
+dt_359,Sanofi,Entry level,4,Hospitality ,Class1,Data Governance
+dt_360,Sanofi,Entry level,2,Hospitality ,Class1,Data Governance
+dt_361,bytecitadel,Mid-Senior level,51,IT Services and IT Consulting ,Class3,unknown
+dt_362,Synechron,Mid-Senior level,100,Pharmaceutical Manufacturing ,Class2,2 of 3 skills match your profile - you may be a good fit
+dt_363,Broadcom,Mid-Senior level,100,Financial Services ,Class2,Systems Engineering
+dt_364,UBS,Mid-Senior level,27,Software Development ,Class5,Process Modeling
+dt_365,Hitachi Energy,Entry level,100,Business Consulting and Services ,Class2,Product Quality
+dt_366,Juniper Networks,Mid-Senior level,30,IT Services and IT Consulting ,Class2,Extract
+dt_367,Wipro,Associate,87,IT Services and IT Consulting ,Class2,Active Directory
+dt_368,Blenheim Chalcot India,Entry level,57,"Technology, Information and Internet ",Class4,Data Science
+dt_369,Infosys BPM,Entry level,100,Environmental Services ,Class2,Insurance
+dt_370,Network18 Media & Investments Limited,Entry level,100,IT Services and IT Consulting ,Class2,Adobe Premiere Pro
+dt_371,Wood Mackenzie,Mid-Senior level,61,Information Technology & Services ,Class5,Data Engineering
+dt_372,Airtel Business,Mid-Senior level,100,IT Services and IT Consulting ,Class1,Account Management
+dt_373,Tata Elxsi,Mid-Senior level,33,IT Services and IT Consulting ,Class3,Radio Frequency (RF)
+dt_374,Northern Trust,Director,57,Outsourcing and Offshoring Consulting ,Class2,Client Presentation
+dt_375,GE Vernova,Mid-Senior level,14,Banking ,Class2,Site Management
+dt_376,Tata Consultancy Services,Mid-Senior level,100,IT Services and IT Consulting ,Class1,unknown
+dt_377,Accenture in India,Entry level,3,Pharmaceutical Manufacturing ,Class1,Communication
+dt_378,UST,Mid-Senior level,100,Financial Services ,Class2,SQL
+dt_379,SurveySparrow,Entry level,100,E-Learning Providers ,Class4,Salesforce Lightning
+dt_380,ITC Infotech,Mid-Senior level,62,Motor Vehicle Manufacturing ,Class1,SAP Materials Management (SAP MM)
+dt_381,Rently,Associate,100,Architecture and Planning ,Class1,Linux
+dt_382,Astrosoft Technologies,Mid-Senior level,69,Business Consulting and Services ,Class2,Amazon Redshift
+dt_383,Tata Consultancy Services,Mid-Senior level,100,IT Services and IT Consulting ,Class2,Microsoft Exchange
+dt_384,Accenture in India,Entry level,1 applicant,Pharmaceutical Manufacturing ,Class1,Communication
+dt_385,Accenture in India,Entry level,1 applicant,Pharmaceutical Manufacturing ,Class1,Communication
+dt_386,Accenture in India,Entry level,0,Pharmaceutical Manufacturing ,Class1,Communication
+dt_387,AB InBev GCC India,Associate,55,IT Services and IT Consulting ,Class4,English
+dt_388,The Timken Company,Mid-Senior level,33,Software Development ,Class4,Process Auditing
+dt_389,Tata Technologies,Mid-Senior level,100,Electric Power Generation ,Class2,Hypermesh
+dt_390,Google,Mid-Senior level,72,IT Services and IT Consulting ,Class3,Site Reliability Engineering
+dt_391,Siemens Gamesa,Mid-Senior level,61,Semiconductor Manufacturing ,Class2,Site Management
+dt_392,DIAGEO India,Associate,59,Staffing and Recruiting ,Class1,Analytical Skills
+dt_393,Jubilant Generics Limited,Entry level,51,Book and Periodical Publishing ,Class4,Public Relations
+dt_394,Cyfuture,Associate,100,Information Technology & Services ,Class1,Vendor Management
+dt_395,Unacademy,Associate,100,IT Services and IT Consulting ,Class3,Interpersonal Communication
+dt_396,Upstox,Mid-Senior level,56,IT Services and IT Consulting ,Class1,JavaScript
+dt_397,Emerson,Mid-Senior level,11,IT Services and IT Consulting ,Class1,Regulatory Guidelines
+dt_398,Accenture in India,Entry level,2,Pharmaceutical Manufacturing ,Class1,Communication
+dt_399,Birlasoft,Mid-Senior level,6,IT Services and IT Consulting ,Class2,Resolving Issues
+dt_400,Silicon Valley Bank,Entry level,100,Financial Services ,Class2,Control Testing
