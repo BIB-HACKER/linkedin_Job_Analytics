@@ -76,9 +76,8 @@ The project involves scraping data from LinkedIn job collections using Python li
 
 The final outcome will be an interactive dashboard providing insights and analytics based on scraped LinkedIn data, including job distribution, skill requirements, company classifications, and more.
 
-## Screenshots (Placeholder)
-![Screenshot 2024-04-01 151219](https://github.com/BIB-HACKER/linkedin-Job_Analytics/assets/87580111/c5098f49-663a-491b-a49d-53adf1b05e65)
-
+## Search Bar
+![319500323-0b5b0817-bae0-4b86-8a90-528a749640a7](https://github.com/BIB-HACKER/linkedin-Job_Analytics/assets/87580111/b788b043-c042-4505-a022-91b26b720c10)
 
 
 ## Getting Started
