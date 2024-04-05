@@ -1,5 +1,8 @@
 # LinkedIn Job Analytics - PROJECT
-
+<img src="https://github.com/BIB-HACKER/linkedin-Job_Analytics/blob/main/logo.jpeg" 
+     width="500" 
+     height="450" />
+     
 ### Introduction
 
 LinkedIn Job Analytics is a project aimed at extracting valuable insights from job listings on the professional networking platform LinkedIn. By scraping data from LinkedIn job collections, the project provides a comprehensive analysis of job distribution across various parameters such as location, industry, and company size. The generated insights can benefit job seekers, recruiters, and career analysts by offering valuable information for decision-making and trend analysis.
